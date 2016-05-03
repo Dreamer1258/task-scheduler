@@ -1,2 +1,2 @@
-# task-scheduler
+# TaskScheduler
 TaskScheduler PHP Client
